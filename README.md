@@ -1,2 +1,2 @@
 # Live Project Link
-https://gyan-foodpanda.netlify.app/
+https://foodpanda-by-gyan.netlify.app/
